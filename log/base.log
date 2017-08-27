@@ -1,0 +1,4 @@
+2017-08-15 21:38:26,788 INFO (StartupInfoLogger.java:48)- Starting SampleController on Ideapad-Y480 with PID 4532 (C:\Users\dengt\project\SpringBoot\target\classes started by dengt in C:\Users\dengt\project\SpringBoot)
+2017-08-15 21:38:26,802 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-15 21:38:26,802 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-15 21:38:31,897 INFO (StartupInfoLogger.java:57)- Started SampleController in 5.631 seconds (JVM running for 7.026)
